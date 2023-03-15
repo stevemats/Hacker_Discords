@@ -33,6 +33,7 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [SaintCon](https://discord.gg/saintcon)
 - [SANS Offensive Operations](https://discord.gg/RWggDDaNtj)
 - [ShellSharks](https://discord.gg/gGNrabK9rY)
+- [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
 - [Summit City Infosec](https://discord.gg/e664A69G4a)
 - [TCM Security](https://discord.gg/tcm)
 - [Threat Hunter Community](https://discord.gg/threathunter)
