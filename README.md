@@ -20,27 +20,26 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) discussion
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox discussion
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
-- [InfoSec Community](https://discord.gg/rXpRtcUVhY) - 
-- [InfoSec Prep](https://discord.gg/infosecprep)
-- [Introduction to Coding/Hacking and 
+- [InfoSec Community](https://discord.gg/rXpRtcUVhY) - Everything and anything IT related with a focus on cybersecurity.
+- [InfoSec Prep](https://discord.gg/infosecprep) - Community to help individuals looking to get started in the InfoSec field.
 - [Joe Grand's Official Server](https://discord.gg/wud8KnF2Gm) - Joe Grand's Official Discord Server
-- [KASE](https://discord.gg/vg6gdrKqMw)
-- [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ)
+- [KASE](https://discord.gg/vg6gdrKqMw) - Affordable hands-on OSINT training
+- [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
 - [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
 - [OwlSec](https://discord.gg/owlsec) - CyberSec, InfoSec, OSINT, Programming, or Tech in general
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
-- [RedSec by Bishop Fox](https://discord.gg/redsec)
-- [Red Team Village](https://discord.gg/redteamvillage)
+- [RedSec by Bishop Fox](https://discord.gg/redsec) - Offensive Security/Red Teaming content, resources, research, news, and conversation.
+- [Red Team Village](https://discord.gg/redteamvillage) - Red Team Village Discussion
 - [RedTeamSec](https://discord.gg/sgFskv2TjQ) - r/redteamsec discussion
-- [Republic of Hackers](https://discord.gg/AVAXXWFzYF)
-- [Reverse Engineering](https://discord.gg/rtfm)
-- [SaintCon](https://discord.gg/saintcon)
-- [SANS Offensive Operations](https://discord.gg/RWggDDaNtj)
+- [Republic of Hackers](https://discord.gg/AVAXXWFzYF) - Global Community of Hackers and InfoSec Enthusiasts
+- [Reverse Engineering](https://discord.gg/rtfm) - Reverse Engineering Discussion
+- [SaintCon](https://discord.gg/saintcon) - SaintCon Community
+- [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Penetration Testing, Red Team, Exploit Dev, Purple Team and more.
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
-- [Summit City Infosec](https://discord.gg/e664A69G4a)
-- [TCM Security](https://discord.gg/tcm)
-- [Threat Hunter Community](https://discord.gg/threathunter)
-- [Trace Labs](https://discord.gg/tracelabs)
-- [TrustedSec](https://discord.gg/trustedsec)
+- [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
+- [TCM Security](https://discord.gg/tcm) - Veteran-owned Cybersecurity Company, Penetration Testing, Security Training, and Compliance.
+- [Threat Hunter Community](https://discord.gg/threathunter) - Threat Hunting Discussion
+- [Trace Labs](https://discord.gg/tracelabs) - TraceLabs CTF/OSINT Community
+- [TrustedSec](https://discord.gg/trustedsec) - TrustedSec Community
