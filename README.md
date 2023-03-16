@@ -29,8 +29,10 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [DEFCON](https://discord.gg/defcon) - DEF CON
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
+- [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
+- [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) community
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
 - [Hack This Site](https://discord.gg/hts) - HackThisSite community
@@ -42,6 +44,7 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [Kali Linux & Friends](https://discord.gg/xN7Vqjvsqe) - Kali Linux, Exploit Database, and VulnHub discussion
 - [KismetWireless](https://discord.gg/p8SPgGdaTT) - Kismet Wireless Community
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
+- [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
 - [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
 - [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
@@ -60,7 +63,8 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [RFID Hacking by Iceman](https://discord.gg/iceman) - Iceman RFID/Proxmark Discussion
 - [SaintCon](https://discord.gg/saintcon) - SaintCon Community
 - [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Penetration Testing, Red Team, Exploit Dev, Purple Team and more.
-- [seccareers.dev](https://discord.gg/cybersecurity) - Internships, New Grad, Entry Roles, and Certifcations in Cybersecurity.
+- [seccareers.dev](https://discord.gg/cybersecurity) - Internships, New Grad, Entry Roles, and Certifcations in Cybersecurity
+- [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
@@ -70,3 +74,4 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [TrustedSec](https://discord.gg/trustedsec) - TrustedSec Community
 - [TryHackMe](https://discord.gg/tryhackme) - TryHackMe Community
 - [Unofficial INE/eLearnSecurity/PTA](https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210) - INE/eLearnSecurity/PTA Discussion
+- [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
