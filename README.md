@@ -3,6 +3,8 @@ List of Hacker/Infosec/CyberSec Discord servers
 
 Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 
+For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hacker_Hiring_Discords
+
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
