@@ -30,6 +30,7 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
+- [Flipper Zero](flipperzero.one/discord) - Flipper Zero Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
