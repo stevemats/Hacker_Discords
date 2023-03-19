@@ -8,6 +8,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
+- [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty 
 - [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
@@ -77,4 +78,5 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [TrustedSec](https://discord.gg/trustedsec) - TrustedSec Community
 - [TryHackMe](https://discord.gg/tryhackme) - TryHackMe Community
 - [Unofficial INE/eLearnSecurity/PTA](https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210) - INE/eLearnSecurity/PTA Discussion
+- [Voidstar Labs](https://discord.gg/voidstarlab) - 3D Printing, Engineering, Electronics, Hardware
 - [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
