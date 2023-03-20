@@ -59,6 +59,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
+- [Raices Cyber](https://discord.gg/6hgkaxNf4A) - Hispanic/Latino/Latina/LatinX Cyber Security Professionals  
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - Offensive Security/Red Teaming content, resources, research, news, and conversation.
 - [Red Team Village](https://discord.gg/redteamvillage) - Red Team Village Discussion
 - [RedTeamSec](https://discord.gg/sgFskv2TjQ) - r/redteamsec discussion
