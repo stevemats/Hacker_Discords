@@ -1,5 +1,5 @@
 # Hacker Discords
-List of Hacker/Infosec/CyberSec Discord servers
+List of Hacker/Infosec/CyberSec and related Discord servers
 
 Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 
