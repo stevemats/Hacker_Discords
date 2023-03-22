@@ -50,6 +50,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [KismetWireless](https://discord.gg/p8SPgGdaTT) - Kismet Wireless Community
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
 - [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
+- [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
 - [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
 - [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
