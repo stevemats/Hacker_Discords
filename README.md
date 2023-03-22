@@ -83,3 +83,5 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Unofficial INE/eLearnSecurity/PTA](https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210) - INE/eLearnSecurity/PTA Discussion
 - [Voidstar Labs](https://discord.gg/voidstarlab) - 3D Printing, Engineering, Electronics, Hardware
 - [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
+
+If for any reason you would like to request a Discord server be removed please open a PR. This list is meant for non-malicious purposes exclusively. 
