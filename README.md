@@ -24,6 +24,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
 - [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) -  Find work and network with peers. 
+- [Cyber Mentor Dojo](https://discord.gg/KFMZ68wG) - Cyber Security Mentorship 
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - Cyber Security, Culture, and Education made accessible to beginners, enthusiasts, and professionals. 
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Cybersecurity Community and resource hub for students
 - [Dangerous Discord](https://discord.com/invite/qtnE8T3) - Biohacking Community
