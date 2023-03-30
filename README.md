@@ -58,6 +58,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
 - [OwlSec](https://discord.gg/owlsec) - CyberSec, InfoSec, OSINT, Programming, or Tech in general
 - [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
+- [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
