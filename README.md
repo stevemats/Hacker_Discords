@@ -18,6 +18,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Bugcrowd Community](https://discord.com/invite/TWr3Brs) - Bugcrowd Community
 - [CactusCon Community](https://discord.gg/znvNrP5xPB) - Cactus Con Community
 - [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking Village
+- [Carolina Con](https://discord.gg/xx6RaeRcD4) - Carolina Con
 - [Certification Station](https://discord.gg/certstation) - CISSP, CCSP, CISM, and other certification discussion.
 - [ChipWhisperer Chat](https://discord.gg/WKbT3cX9Yq) - Embedded Security, Side-Channel Power Analysis, and Fault Injection.
 - [Circle City Con X](https://discord.gg/PQCabtG6RN) - Circle City Con Community
