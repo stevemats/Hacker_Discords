@@ -8,6 +8,8 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
+- [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
+- [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
 - [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty 
 - [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
@@ -77,6 +79,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
+- [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
 - [TCM Security](https://discord.gg/tcm) - Veteran-owned Cybersecurity Company, Penetration Testing, Security Training, and Compliance.
 - [Threat Hunter Community](https://discord.gg/threathunter) - Threat Hunting Discussion
