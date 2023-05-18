@@ -7,6 +7,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
+- [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
 - [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
