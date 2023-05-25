@@ -8,15 +8,20 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
+- [Adversary Village](https://discord.gg/rk44QhQR) - Adversary Village
+- [Aerospace Village](https://discord.com/invite/gV4EWuk) - Aerospace Village
+- [Ai Village](discord.gg/xMK7fuu) - Artificial Intelligence Village
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
 - [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
 - [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty 
+- [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security Village
 - [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
 - [Blue Team Labs Online](https://discord.gg/T8F2jqZwMG) - Blue Team Labs Community
+- [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Team Village
 - [Bounty Hunters](https://discord.gg/bugbounty) - Bug Bounty Discussion
 - [Bugcrowd Community](https://discord.com/invite/TWr3Brs) - Bugcrowd Community
 - [CactusCon Community](https://discord.gg/znvNrP5xPB) - Cactus Con Community
@@ -26,6 +31,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [ChipWhisperer Chat](https://discord.gg/WKbT3cX9Yq) - Embedded Security, Side-Channel Power Analysis, and Fault Injection.
 - [Circle City Con X](https://discord.gg/PQCabtG6RN) - Circle City Con Community
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
+- [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
 - [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) -  Find work and network with peers. 
 - [Cyber Mentor Dojo](https://discord.gg/KFMZ68wG) - Cyber Security Mentorship 
@@ -45,6 +51,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) community
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
 - [Hack This Site](https://discord.gg/hts) - HackThisSite community
+- [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
 - [ImaginaryCTF](https://discord.gg/ctf) - Daily CTF challenges, over 1,000 challenges await!
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
 - [InfoSec Community](https://discord.gg/rXpRtcUVhY) - Everything and anything IT related with a focus on cybersecurity.
@@ -56,6 +63,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
 - [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
 - [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
+- [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation Village
 - [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
 - [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
@@ -66,9 +74,11 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
+- [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing Village
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
 - [Raices Cyber](https://discord.gg/6hgkaxNf4A) - Hispanic/Latino/Latina/LatinX Cyber Security Professionals  
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - Offensive Security/Red Teaming content, resources, research, news, and conversation.
+- [Recon Village](https://discord.gg/kRxDqGfb) - Recon Village
 - [Red Team Village](https://discord.gg/redteamvillage) - Red Team Village Discussion
 - [RedTeamSec](https://discord.gg/sgFskv2TjQ) - r/redteamsec discussion
 - [REGames](https://discord.gg/regames-760531247704702996) - Video Game Reverse Engineering & Security
