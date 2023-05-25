@@ -34,7 +34,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Dangerous Discord](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Darknet Diaries discussion
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
-- [DEFCON](https://discord.gg/defcon) - DEF CON
+- [DEF CON](https://discord.gg/defcon) - DEF CON
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
