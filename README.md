@@ -53,6 +53,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
 - [Hack This Site](https://discord.gg/hts) - HackThisSite community
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
+- [I am Jakoby](https://discord.gg/iamjakoby) - [I_am_Jakoby](https://twitter.com/I_Am_Jakoby) BadUSB, Flipper, Hak5 development 
 - [ImaginaryCTF](https://discord.gg/ctf) - Daily CTF challenges, over 1,000 challenges await!
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
 - [InfoSec Community](https://discord.gg/rXpRtcUVhY) - Everything and anything IT related with a focus on cybersecurity.
