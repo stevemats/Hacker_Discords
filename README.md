@@ -87,6 +87,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Republic of Hackers](https://discord.gg/AVAXXWFzYF) - Global Community of Hackers and InfoSec Enthusiasts
 - [Reverse Engineering](https://discord.gg/rtfm) - Reverse Engineering Discussion
 - [RFID Hacking by Iceman](https://discord.gg/iceman) - Iceman RFID/Proxmark Discussion
+- [Red Society Club](discord.gg/theRSC) - Community of LGBTQ/Women/Under-Represented Red Team inidivudals
 - [SaintCon](https://discord.gg/saintcon) - SaintCon Community
 - [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Penetration Testing, Red Team, Exploit Dev, Purple Team and more.
 - [seccareers.dev](https://discord.gg/cybersecurity) - Internships, New Grad, Entry Roles, and Certifcations in Cybersecurity
