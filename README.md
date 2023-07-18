@@ -19,6 +19,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security Village
 - [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
+- [Badge Life](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
 - [Blue Team Labs Online](https://discord.gg/T8F2jqZwMG) - Blue Team Labs Community
