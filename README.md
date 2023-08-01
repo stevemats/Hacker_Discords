@@ -45,6 +45,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
 - [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
 - [DEF CON](https://discord.gg/defcon) - DEF CON
+- [DEFCON 512](discord.dc512.org) - DCG Austin, TX
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
