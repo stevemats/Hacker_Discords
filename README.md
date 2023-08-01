@@ -21,6 +21,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
 - [Badge Life](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
+- [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
 - [Blue Team Labs Online](https://discord.gg/T8F2jqZwMG) - Blue Team Labs Community
 - [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Team Village
@@ -74,6 +75,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Optiv (Source Zero Con)](https://discord.gg/68gE2gVUEH) - Source Zero Con brings the cybersecurity community together to drive technical innovation with open minds
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
 - [OwlSec](https://discord.gg/owlsec) - CyberSec, InfoSec, OSINT, Programming, or Tech in general
+- [PepperCon](discord.gg/URRBHAH) - The hottest thing at defcon. Come find us and feel the burn!
 - [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
 - [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
@@ -96,6 +98,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
+- [Strange Parts](https://discord.gg/strangeparts) - [Strange Parts YouTube Channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - Adventure in Technology Fringe 
 - [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
 - [TCM Security](https://discord.gg/tcm) - Veteran-owned Cybersecurity Company, Penetration Testing, Security Training, and Compliance.
