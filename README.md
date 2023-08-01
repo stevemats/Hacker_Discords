@@ -32,7 +32,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Carolina Con](https://discord.gg/xx6RaeRcD4) - Carolina Con
 - [Certification Station](https://discord.gg/certstation) - CISSP, CCSP, CISM, and other certification discussion.
 - [ChipWhisperer Chat](https://discord.gg/WKbT3cX9Yq) - Embedded Security, Side-Channel Power Analysis, and Fault Injection.
-- [Circle City Con X](https://discord.gg/PQCabtG6RN) - Circle City Con Community
+- [Cloud Village](https://discord.gg/7ChUvmEYeF) - DEFCON Cloud Village
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
@@ -43,6 +43,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Dangerous Discord](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Darknet Diaries discussion
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
+- [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
 - [DEF CON](https://discord.gg/defcon) - DEF CON
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
@@ -65,6 +66,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Kali Linux & Friends](https://discord.gg/xN7Vqjvsqe) - Kali Linux, Exploit Database, and VulnHub discussion
 - [KismetWireless](https://discord.gg/p8SPgGdaTT) - Kismet Wireless Community
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
+- [Kitboga](https://discord.gg/kitboga) - Scambaiting
 - [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
 - [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
 - [LyndLabs](https://discord.gg/szv3X7hbrG) - DNS-Driveby, Nugget, Wardriving with [Alex Lynd](https://twitter.com/alexlynd)
