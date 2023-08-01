@@ -45,6 +45,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
 - [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
 - [DEF CON](https://discord.gg/defcon) - DEF CON
+- [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEFCON 512](discord.dc512.org) - DCG Austin, TX
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
@@ -84,6 +85,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
 - [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing Village
+- [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
 - [Raices Cyber](https://discord.gg/6hgkaxNf4A) - Hispanic/Latino/Latina/LatinX Cyber Security Professionals  
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - Offensive Security/Red Teaming content, resources, research, news, and conversation.
