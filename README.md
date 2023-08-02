@@ -48,6 +48,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEFCON 512](discord.dc512.org) - DCG Austin, TX
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
+- [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
 - [Flipper Zero](flipperzero.one/discord) - Flipper Zero Community
