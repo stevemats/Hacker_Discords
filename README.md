@@ -7,6 +7,8 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
+- [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - Whiskey Pirates
+- [801 Labs](https://discord.gg/801labs) - [Hackerspace Community](https://www.801labs.org/); BadgeLife; 3D-printing; Biohacking
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
 - [Adversary Village](https://discord.gg/rk44QhQR) - Adversary Village
@@ -37,6 +39,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
+- [Cyberdeck Cafe](https://discord.gg/5rDpDqwXq2) - Cyberdecks & Cyberdeck Accessories
 - [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) -  Find work and network with peers. 
 - [Cyber Mentor Dojo](https://discord.gg/KFMZ68wG) - Cyber Security Mentorship 
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - Cyber Security, Culture, and Education made accessible to beginners, enthusiasts, and professionals. 
@@ -49,14 +52,19 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEFCON 512](discord.dc512.org) - DCG Austin, TX
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
+- [DC207](https://discord.gg/JjpKF6sFW6) - DEFCON Group 207 - MaineSec
 - [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
+- [DC615](https://t.co/tqd0Ewp6HB) - DEFCON Group 615 - Nashville, TN
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
+- [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - [Whiskey Pirates](http://whiskeypirates.com/); Do what you want cause a pirate is free
 - [Flipper Zero](flipperzero.one/discord) - Flipper Zero Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) community
+- [Hacker Horror Nights](https://discord.gg/x9hka5tSPF) - Hackers & Horror Movies
+- [Hackers N' Hops](https://discord.gg/cuX2A2CjXc) - Cyber social group aimed at helping each other learn and hone hacking skills
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
 - [Hack This Site](https://discord.gg/hts) - HackThisSite community
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
