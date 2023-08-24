@@ -55,6 +55,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DC207](https://discord.gg/JjpKF6sFW6) - DEFCON Group 207 - MaineSec
 - [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
 - [DC615](https://t.co/tqd0Ewp6HB) - DEFCON Group 615 - Nashville, TN
+- [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village  
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
 - [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - [Whiskey Pirates](http://whiskeypirates.com/); Do what you want cause a pirate is free
