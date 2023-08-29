@@ -25,6 +25,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) -  Fuzzing and Exploit Development
 - [Badge Life](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
+- [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
 - [Blue Team Labs Online](https://discord.gg/T8F2jqZwMG) - Blue Team Labs Community
@@ -52,13 +53,14 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
 - [DEF CON](https://discord.gg/defcon) - DEF CON
 - [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
+- [DEF CON Groups VR](https://discord.gg/bsX4QXf3rD) - DEF CON Groups Virtual Reality
 - [DEFCON 512](discord.dc512.org) - DCG Austin, TX
 - [DevSecOps Community](https://discord.gg/devsecops-community-918181751526948884) - DevSecOps Community
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [DC207](https://discord.gg/JjpKF6sFW6) - DEFCON Group 207 - MaineSec
 - [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
 - [DC615](https://t.co/tqd0Ewp6HB) - DEFCON Group 615 - Nashville, TN
-- [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village  
+- [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village 
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Digital Overdose](https://discord.gg/digitaloverdose) - Community focused around information security, cybersecurity, ethical hacking and tech in general, that aims to provide a space where anyone can join, discuss and interact
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
@@ -120,6 +122,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [RedTeamSec](https://discord.gg/sgFskv2TjQ) - r/redteamsec discussion
 - [REGames](https://discord.gg/regames-760531247704702996) - Video Game Reverse Engineering & Security
 - [Republic of Hackers](https://discord.gg/AVAXXWFzYF) - Global Community of Hackers and InfoSec Enthusiasts
+- [Retail Hacking Village](https://discord.gg/DxG4Uj7WZV) - Retail Hacking
 - [Reverse Engineering](https://discord.gg/rtfm) - Reverse Engineering Discussion
 - [RFID Hacking by Iceman](https://discord.gg/iceman) - Iceman RFID/Proxmark Discussion
 - [Red Society Club](discord.gg/theRSC) - Community of LGBTQ/Women/Under-Represented Red Team inidivudals
