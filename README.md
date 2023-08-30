@@ -66,6 +66,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
 - [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - [Whiskey Pirates](http://whiskeypirates.com/); Do what you want cause a pirate is free
 - [Flipper Zero](flipperzero.one/discord) - Flipper Zero Community
+- [ftp://con](https://discord.gg/gbMrzYFJD8) - an [antifascist hacker con](https://www.ftpcon.com/)
 - [F0xhunt](https://discord.gg/f0xhunt) - Cybersecurity Learning Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
@@ -78,6 +79,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Hack This Site](https://discord.gg/hts) - HackThisSite community
 - [Hackers Teaching Hackers](https://discord.gg/Qck5NUgw9z) - [Hackers Teaching Hackers Conference](https://www.hthackers.com/), Columbus OH 
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
+- [HardwareSwap](https://discord.gg/hwswap) - r/hardwareswap but Discord
 - [I am Jakoby](https://discord.gg/iamjakoby) - [I_am_Jakoby](https://twitter.com/I_Am_Jakoby) BadUSB, Flipper, Hak5 development 
 - [ImaginaryCTF](https://discord.gg/ctf) - Daily CTF challenges, over 1,000 challenges await!
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
