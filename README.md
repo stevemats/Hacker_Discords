@@ -58,6 +58,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DevSecOps Community](https://discord.gg/devsecops-community-918181751526948884) - DevSecOps Community
 - [DC2](https://discord.gg/GvjDcCew9Q) - DC²
 - [DC207](https://discord.gg/JjpKF6sFW6) - DEFCON Group 207 - MaineSec
+- [DCG239](https://discord.gg/aDTRemnchA) - DEFCON Group 239, SWFLSec
 - [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
 - [DC615](https://t.co/tqd0Ewp6HB) - DEFCON Group 615 - Nashville, TN
 - [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village 
@@ -80,6 +81,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Hackers Teaching Hackers](https://discord.gg/Qck5NUgw9z) - [Hackers Teaching Hackers Conference](https://www.hthackers.com/), Columbus OH 
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
 - [HardwareSwap](https://discord.gg/hwswap) - r/hardwareswap but Discord
+- [Huntr](https://discord.gg/5YWbUcSp3A) - [Ai/ML Bug Bounty Program](https://huntr.mlsecops.com/)
 - [I am Jakoby](https://discord.gg/iamjakoby) - [I_am_Jakoby](https://twitter.com/I_Am_Jakoby) BadUSB, Flipper, Hak5 development 
 - [ImaginaryCTF](https://discord.gg/ctf) - Daily CTF challenges, over 1,000 challenges await!
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
@@ -134,6 +136,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
+- [Simply Cyber](https://discord.gg/simplycyber) - Inclusive, non-toxic infosec community; SimplyCyber YouTube Channel; Virtual Con
 - [Strange Parts](https://discord.gg/strangeparts) - [Strange Parts YouTube Channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - Adventure in Technology Fringe 
 - [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
