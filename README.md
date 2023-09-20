@@ -91,6 +91,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [InfoSec Community Server](https://discord.gg/b8faj9Q3Xd) - Infosec Study Community
 - [InfoSec Prep](https://discord.gg/infosecprep) - Community to help individuals looking to get started in the InfoSec field.
 - [Joe Grand's Official Server](https://discord.gg/wud8KnF2Gm) - Joe Grand's Official Discord Server
+- [Jhaddix Discord](discord.gg/jhaddix) - [Jason Haddix](https://twitter.com/Jhaddix) chat and share  all things infosec and offsec; We also game occasionally 😜
 - [KASE](https://discord.gg/vg6gdrKqMw) - Affordable hands-on OSINT training
 - [Kali Linux & Friends](https://discord.gg/xN7Vqjvsqe) - Kali Linux, Exploit Database, and VulnHub discussion
 - [KismetWireless](https://discord.gg/p8SPgGdaTT) - Kismet Wireless Community
