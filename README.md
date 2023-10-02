@@ -101,7 +101,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
 - [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
 - [LyndLabs](https://discord.gg/szv3X7hbrG) - DNS-Driveby, Nugget, Wardriving with [Alex Lynd](https://twitter.com/alexlynd)
-- [Martian Defense Cyber Team](https://discord.com/servers/martian-defense-cyber-team-cybersecurity-966495228385198150) - Beginner to Expert Cybersecurity Community
+- [Martian Defense Cyber Team](https://join.martiandefense.llc) - Beginner to Expert Cybersecurity Community
 - [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation Village
 - [MSPGeek](https://discord.gg/mspgeek) - MSP Community
 - [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
