@@ -8,7 +8,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
-- [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - Whiskey Pirates
 - [801 Labs](https://discord.gg/801labs) - [Hackerspace Community](https://www.801labs.org/); BadgeLife; 3D-printing; Biohacking
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
@@ -73,6 +72,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [ftp://con](https://discord.gg/gbMrzYFJD8) - an [antifascist hacker con](https://www.ftpcon.com/)
 - [F0xhunt](https://discord.gg/f0xhunt) - Cybersecurity Learning Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
+- [Greynoise](https://discord.gg/AVbx5wAzga) - the source for understanding internet noise
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
 - [hackbacc](https://discord.gg/fH93hbE85H) - Hacking Community
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
