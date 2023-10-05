@@ -119,6 +119,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
 - [pwn.college](https://discord.gg/pwncollege) - pwn.college is an education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
+- [public club](https://discord.gg/3b4qtuJUKe) - [Secret.Club](https://secret.club/): reverse-engineering, hacking and breaking your software in every way imaginable
 - [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing Village
 - [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
