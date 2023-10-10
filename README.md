@@ -38,6 +38,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking Village
 - [Carolina Con](https://discord.gg/xx6RaeRcD4) - Carolina Con
 - [Certification Station](https://discord.gg/certstation) - CISSP, CCSP, CISM, and other certification discussion.
+- [ChatGPT Hackers](https://discord.gg/d4zDC4u7Ag) - Developers, researchers, hackers, and AI enthusiasts who are building the cutting edge of AI
 - [ChipWhisperer Chat](https://discord.gg/WKbT3cX9Yq) - Embedded Security, Side-Channel Power Analysis, and Fault Injection.
 - [Cloud Village](https://discord.gg/7ChUvmEYeF) - DEFCON Cloud Village
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
@@ -73,6 +74,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [ftp://con](https://discord.gg/gbMrzYFJD8) - an [antifascist hacker con](https://www.ftpcon.com/)
 - [F0xhunt](https://discord.gg/f0xhunt) - Cybersecurity Learning Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
+- [Great Scott Gadgets](https://discord.gg/rsfMw3rsU8) - Makers of HackRF One, Ubertooth One, YARD Stick One, and more; We design open source tools for innovative people.
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
 - [hackbacc](https://discord.gg/fH93hbE85H) - Hacking Community
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
