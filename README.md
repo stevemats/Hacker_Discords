@@ -8,7 +8,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
-- [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - Whiskey Pirates
 - [801 Labs](https://discord.gg/801labs) - [Hackerspace Community](https://www.801labs.org/); BadgeLife; 3D-printing; Biohacking
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
@@ -75,6 +74,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [F0xhunt](https://discord.gg/f0xhunt) - Cybersecurity Learning Community
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Great Scott Gadgets](https://discord.gg/rsfMw3rsU8) - Makers of HackRF One, Ubertooth One, YARD Stick One, and more; We design open source tools for innovative people.
+- [Greynoise](https://discord.gg/AVbx5wAzga) - the source for understanding internet noise
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
 - [hackbacc](https://discord.gg/fH93hbE85H) - Hacking Community
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
@@ -103,7 +103,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
 - [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
 - [LyndLabs](https://discord.gg/szv3X7hbrG) - DNS-Driveby, Nugget, Wardriving with [Alex Lynd](https://twitter.com/alexlynd)
-- [Martian Defense Cyber Team](https://discord.com/servers/martian-defense-cyber-team-cybersecurity-966495228385198150) - Beginner to Expert Cybersecurity Community
+- [Martian Defense Cyber Team](https://join.martiandefense.llc) - Beginner to Expert Cybersecurity Community
 - [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation Village
 - [MSPGeek](https://discord.gg/mspgeek) - MSP Community
 - [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
@@ -121,6 +121,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
 - [pwn.college](https://discord.gg/pwncollege) - pwn.college is an education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
+- [public club](https://discord.gg/3b4qtuJUKe) - [Secret.Club](https://secret.club/): reverse-engineering, hacking and breaking your software in every way imaginable
 - [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing Village
 - [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
