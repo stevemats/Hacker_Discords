@@ -20,7 +20,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
 - [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty
-- [App School](https://discord.gg/3D5N4xcp) - Go-to for software engineering; here to support you becoming a proficient software dev
+- [App School](https://discord.gg/UZvak5t7j5) - Go-to for software engineering; here to support you becoming a proficient dev
 - [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security Village
 - [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) - Fuzzing and Exploit Development
