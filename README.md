@@ -158,6 +158,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [TryHackMe](https://discord.gg/tryhackme) - TryHackMe Community
 - [Unofficial INE/eLearnSecurity/PTA](https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210) - INE/eLearnSecurity/PTA Discussion
 - [Voidstar Labs](https://discord.gg/voidstarlab) - 3D Printing, Engineering, Electronics, Hardware
+- [WorkSmarter](https://discord.gg/WorkSmarter) - IT community focused on career, mentoring, and content creation.
 - [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
 - [ZeroDaysCTF](https://discord.gg/Uuhjn6Yyzb) - Organise and promote capture-the-flag (CTF) events.
 
