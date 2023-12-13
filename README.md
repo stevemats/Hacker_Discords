@@ -115,7 +115,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Open Analysis Live](https://discord.gg/tqKcMTYu) - Reverse Engineering Community
 - [Optiv (Source Zero Con)](https://discord.gg/68gE2gVUEH) - Source Zero Con brings the cybersecurity community together to drive technical innovation with open minds
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
-- [OwlSec](https://discord.gg/owlsec) - CyberSec, InfoSec, OSINT, Programming, or Tech in general
 - [PepperCon](discord.gg/URRBHAH) - The hottest thing at defcon. Come find us and feel the burn!
 - [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
 - [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
