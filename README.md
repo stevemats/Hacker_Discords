@@ -18,7 +18,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
 - [AND!XOR](https://discord.gg/Frf5VpXN9F) - [BadgeLife & 5n4ck3y](https://www.andnxor.com/)
 - [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
-- [Arkansas Hakers Discord ](https://krime.life) - Arkansas Hackers discord is a statewide server for hackers from Arkansas and beyond.
+- [Arkansas Hakers Discord ](https://krime.life) - Arkansas Hackers is a statewide server for hackers from Arkansas and beyond.
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
 - [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty
 - [App School](https://discord.gg/UZvak5t7j5) - Go-to for software engineering; here to support you becoming a proficient dev
