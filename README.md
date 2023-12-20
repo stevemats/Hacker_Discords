@@ -81,6 +81,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [hackbacc](https://discord.gg/fH93hbE85H) - Hacking Community
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) community
+- [HACKERverse](https://discord.gg/hacer-rs-952244889192648775) - Community dedicated to Learning, Ecosystems, CTFs, Events/Demos/POCs, & Hacking
 - [Hacker Horror Nights](https://discord.gg/x9hka5tSPF) - Hackers & Horror Movies
 - [Hackers N' Hops](https://discord.gg/cuX2A2CjXc) - Cyber social group aimed at helping each other learn and hone hacking skills
 - [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
