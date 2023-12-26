@@ -151,6 +151,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
 - [TCM Security](https://discord.gg/tcm) - Veteran-owned Cybersecurity Company, Penetration Testing, Security Training, and Compliance.
 - [The Alh4z-R3d Team](https://discord.gg/PQdwBMb6dn) - Inclusive community promoting education and self-improvement through knowledge of the dark arts of hacking.
+- [The InfoSec Collective](https://discord.gg/kPhVS9DXjw) - Community-driven infosec non-profit aimed to make infosec a more inclusive and accessible field for everyone.
 - [The Hive](https://discord.gg/29VBQgQHMd) - Cybersecurity Learning Community
 - [The Taggart Institute](https://discord.gg/taggartinstitute) - Low-cost, high-quality technology training to everyone in a welcoming, supportive community.
 - [Threat Hunter Community](https://discord.gg/threathunter) - Threat Hunting Discussion
