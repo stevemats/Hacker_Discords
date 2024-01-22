@@ -7,7 +7,6 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hacker_Hiring_Discords
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
-- [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
 - [801 Labs](https://discord.gg/801labs) - [801 Labs Hackerspace](https://www.801labs.org/), BadgeLife, 3D-printing, Biohacking
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
