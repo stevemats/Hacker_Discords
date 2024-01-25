@@ -118,6 +118,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
 - [PepperCon](discord.gg/URRBHAH) - The hottest thing at defcon. Come find us and feel the burn!
 - [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
+- [Pirates Plunder](https://discord.gg/thepirates) - Hacking, Wardriving, OSINT, etc
 - [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
