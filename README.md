@@ -118,7 +118,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
 - [PepperCon](discord.gg/URRBHAH) - The hottest thing at defcon. Come find us and feel the burn!
 - [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
-- [Pirates Plunder](https://discord.gg/thepirates) - Hacking, Wardriving, OSINT, etc
 - [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
 - [Project Owl](https://discord.gg/projectowl) - OSINT Community
@@ -153,6 +152,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [The Alh4z-R3d Team](https://discord.gg/PQdwBMb6dn) - Inclusive community promoting education and self-improvement through knowledge of the dark arts of hacking.
 - [The InfoSec Collective](https://discord.gg/kPhVS9DXjw) - Community-driven infosec non-profit aimed to make infosec a more inclusive and accessible field for everyone.
 - [The Hive](https://discord.gg/29VBQgQHMd) - Cybersecurity Learning Community
+- [The Pirates Plunder](https://discord.gg/thepirates) - Hacking, Wardriving, OSINT, etc
 - [The Taggart Institute](https://discord.gg/taggartinstitute) - Low-cost, high-quality technology training to everyone in a welcoming, supportive community.
 - [Threat Hunter Community](https://discord.gg/threathunter) - Threat Hunting Discussion
 - [Trace Labs](https://discord.gg/tracelabs) - TraceLabs CTF/OSINT Community
