@@ -142,6 +142,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Penetration Testing, Red Team, Exploit Dev, Purple Team and more.
 - [seccareers.dev](https://discord.gg/cybersecurity) - Internships, New Grad, Entry Roles, and Certifcations in Cybersecurity
 - [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
+- [SecSchool(https://discord.gg/2bWxKHn8Yd) - learning platform to learn ethical hacking
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
 - [Simply Cyber](https://discord.gg/simplycyber) - Inclusive, non-toxic infosec community; SimplyCyber YouTube Channel; Virtual Con
