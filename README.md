@@ -110,7 +110,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
 - [n00b_sec](https://discord.gg/Yr6GX7dB3A) - Hacking Community
 - [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
-- [OnlyFeet](https://discord.gg/onlyfeet) - Literally anything. Doesn't have to be cyber security/server/feet related.
 - [Open Analysis Live](https://discord.gg/tqKcMTYu) - Reverse Engineering Community
 - [Optiv (Source Zero Con)](https://discord.gg/68gE2gVUEH) - Source Zero Con brings the cybersecurity community together to drive technical innovation with open minds
 - [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
