@@ -25,6 +25,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [BadgeMakers](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
 - [BC Security](discord.gg/P8PZPyf) - Threat Emulation | Training | Red Team | Pentesting | Compliance
+- [BIOHACKERS DIGITAL](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
@@ -49,7 +50,6 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - Cyber Security, Culture, and Education made accessible to beginners, enthusiasts, and professionals.
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Cybersecurity Community and resource hub for students
 - [Cyber Tech Ascentions](https://discord.gg/WxesdwCpre) - Cybersecurity Learning Community
-- [Dangerous Discord](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Darknet Diaries discussion
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
 - [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
