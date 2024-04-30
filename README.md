@@ -144,7 +144,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
 - [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
 - [Simply Cyber](https://discord.gg/simplycyber) - Inclusive, non-toxic infosec community; SimplyCyber YouTube Channel; Virtual Con
-- [SkyPenguin Labs](https://discord.gg/rE9u3SmrCk) - Hacking & Research
+- [SkyPenguin Labs](https://discord.gg/cPwv8kZHsx) - Hacking & Research
 - [Strange Parts](https://discord.gg/strangeparts) - [Strange Parts YouTube Channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - Adventure in Technology Fringe
 - [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
