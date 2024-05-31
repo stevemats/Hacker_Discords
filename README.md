@@ -25,7 +25,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [BadgeMakers](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
 - [BC Security](discord.gg/P8PZPyf) - Threat Emulation | Training | Red Team | Pentesting | Compliance
-- [BIOHACKERS DIGITAL](https://discord.com/invite/qtnE8T3) - Biohacking Community
+- [Biohackers Digital](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
 - [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
