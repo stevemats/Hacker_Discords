@@ -1,5 +1,40 @@
 # Hacker Discords
 
+<details open>
+<summary>Table of Contents</summary>
+
+# Table Of Contents
+
+- [Introduction](#introduction)
+  - [0-9](#0-9)
+  - [A](#a)
+  - [B](#b)
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [G](#g)
+  - [H](#h)
+  - [I](#i)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+  - [Z](#z)
+
+</details>
+
+---
+
+# Introduction
+
 List of Hacker/Infosec/CyberSec and related Discord servers
 
 Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
