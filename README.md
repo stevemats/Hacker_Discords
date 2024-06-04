@@ -6,9 +6,13 @@ Please open a PR to submit a server - [SERVERNAME] & (URL) - Description
 
 For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hacker_Hiring_Discords
 
+## 0-9
+
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
-- [801 Labs](https://discord.gg/801labs) - [801 Labs Hackerspace](https://www.801labs.org/), BadgeLife, 3D-printing, Biohacking
 - [1BitSquared](https://1bitsquared.com/pages/chat) - Open-source Hardware and Electrical Engineering.
+
+## A
+
 - [adbs.fi](https://discord.gg/jfVRF2XRwF) - Community-driven flight tracker
 - [Adversary Village](https://discord.gg/rk44QhQR) - Adversary Village
 - [Aerospace Village](https://discord.com/invite/gV4EWuk) - Aerospace Village
@@ -16,23 +20,29 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Alomancy's Server](https://discord.gg/bPw3arrhbJ) - Hacker Community
 - [Amass](https://discord.gg/BjCH28z7f6) - Network Mapping and External Asset Discovery using OSINT and active recon.
 - [AND!XOR](https://discord.gg/Frf5VpXN9F) - [BadgeLife & 5n4ck3y](https://www.andnxor.com/)
-- [Antisyphon Traning](https://discord.gg/antisyphon) - On-Demand Infosec Traning & Cyber Ranges
+- [Antisyphon Training](https://discord.gg/antisyphon) - On-Demand Infosec Training & Cyber Ranges
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - Athena is an Arch Linux-based distro focused on Cybersecurity
 - [Atomiczsec Bounty Squad](https://discord.gg/EswRSZNr9f) - atomiczsec, bug bounty
 - [App School](https://discord.gg/UZvak5t7j5) - Go-to for software engineering; here to support you becoming a proficient dev
 - [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security Village
-- [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentaiton, Open Cybernetics Community
+- [Augmentation Limitless](https://www.patreon.com/user?u=84030408) - Biohacking, Human Augmentation, Open Cybernetics Community
+
+## B
+
 - [BadgeMakers](http://discord.badge.life) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Bellingcat](https://discord.gg/bellingcat) - Community for Bellingcat readers and OSINT enthusiasts
 - [BC Security](discord.gg/P8PZPyf) - Threat Emulation | Training | Red Team | Pentesting | Compliance
 - [Biohackers Digital](https://discord.com/invite/qtnE8T3) - Biohacking Community
 - [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
-- [Black Hills Infosec](https://discord.gg/bhis) - Penetratio Testing, Red Teaming, and Threat Hunting
+- [Black Hills Infosec](https://discord.gg/bhis) - Penetration Testing, Red Teaming, and Threat Hunting
 - [Blue Team Labs Online](https://discord.gg/T8F2jqZwMG) - Blue Team Labs Community
 - [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Team Village
 - [Bounty Hunters](https://discord.gg/bugbounty) - Bug Bounty Discussion
 - [Bugcrowd Community](https://discord.com/invite/TWr3Brs) - Bugcrowd Community
+
+## C
+
 - [CactusCon Community](https://discord.gg/znvNrP5xPB) - Cactus Con Community
 - [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking Village
 - [Carolina Con](https://discord.gg/xx6RaeRcD4) - Carolina Con
@@ -45,11 +55,14 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
 - [Cyberdeck Cafe](https://discord.gg/5rDpDqwXq2) - Cyberdecks & Cyberdeck Accessories
-- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) -  Find work and network with peers.
+- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) - Find work and network with peers.
 - [Cyber Mentor Dojo](https://discord.gg/KFMZ68wG) - Cyber Security Mentorship
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - Cyber Security, Culture, and Education made accessible to beginners, enthusiasts, and professionals.
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Cybersecurity Community and resource hub for students
-- [Cyber Tech Ascentions](https://discord.gg/WxesdwCpre) - Cybersecurity Learning Community
+- [Cyber Tech Ascensions](https://discord.gg/WxesdwCpre) - Cybersecurity Learning Community
+
+## D
+
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Darknet Diaries discussion
 - [Day[0]](https://discord.gg/K3PUYKZY6P) - Vulnerability Research, Podcast, Canadian
 - [DeadPixelSec](https://discord.gg/deadpixelsec) - Infosec enthusiasts who have a passion for learning and helping others as well as getting into mischief
@@ -67,102 +80,123 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Digital Overdose](https://discord.gg/digitaloverdose) - Community focused around information security, cybersecurity, ethical hacking and tech in general, that aims to provide a space where anyone can join, discuss and interact
 - [Doge Den](https://discord.gg/inteldoge) - OSINT Community, DOGE
+
+## E
+
 - [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - [Whiskey Pirates](http://whiskeypirates.com/); Do what you want cause a pirate is free
+
+## F
+
 - [Flipper Zero](flipperzero.one/discord) - Flipper Zero Community
 - [ftp://con](https://discord.gg/gbMrzYFJD8) - an [antifascist hacker con](https://www.ftpcon.com/)
 - [F0xhunt](https://discord.gg/f0xhunt) - Cybersecurity Learning Community
+
+## G
+
 - [GlobalNews.Watch](https://discord.com/invite/5pmK4TU) - OSINT to facilitate access to information that would otherwise be unavailable due to obscurity, or because it is hidden behind misinformation.
 - [Great Scott Gadgets](https://discord.gg/rsfMw3rsU8) - Makers of HackRF One, Ubertooth One, YARD Stick One, and more; We design open source tools for innovative people.
 - [Greynoise](https://discord.gg/AVbx5wAzga) - the source for understanding internet noise
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - Gynvael Coldwind (Computer Security and low-level IT) discussion
-- [hackbacc](https://discord.gg/fH93hbE85H) - Hacking Community
-- [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking Community
-- [Hacker101](https://discord.gg/ZWBF2v42pa) - Hacker101 (bug-bounty) community
-- [HACKERverse](https://discord.gg/hacer-rs-952244889192648775) - Community dedicated to Learning, Ecosystems, CTFs, Events/Demos/POCs, & Hacking
-- [Hacker Horror Nights](https://discord.gg/x9hka5tSPF) - Hackers & Horror Movies
-- [Hackers N' Hops](https://discord.gg/cuX2A2CjXc) - Cyber social group aimed at helping each other learn and hone hacking skills
-- [HackTheBox](https://discord.gg/hackthebox) - HackTheBox community
-- [Hack This Site](https://discord.gg/hts) - HackThisSite community
-- [Hackers Teaching Hackers](https://discord.gg/Qck5NUgw9z) - [Hackers Teaching Hackers Conference](https://www.hthackers.com/), Columbus OH
-- [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio Village
-- [HardwareSwap](https://discord.gg/hwswap) - r/hardwareswap but Discord
-- [Huntr](https://discord.gg/5YWbUcSp3A) - [Ai/ML Bug Bounty Program](https://huntr.mlsecops.com/)
-- [I am Jakoby](https://discord.gg/iamjakoby) - [I_am_Jakoby](https://twitter.com/I_Am_Jakoby) BadUSB, Flipper, Hak5 development
-- [ImaginaryCTF](https://discord.gg/ctf) - Daily CTF challenges, over 1,000 challenges await!
-- [Infosec 716](https://discord.gg/PZyNPZ8yuF) - Infosec176 (Buffalo, NY) discussion
-- [InfoSec Community](https://discord.gg/rXpRtcUVhY) - Everything and anything IT related with a focus on cybersecurity.
-- [InfoSec Community Server](https://discord.gg/b8faj9Q3Xd) - Infosec Study Community
-- [InfoSec Prep](https://discord.gg/infosecprep) - Community to help individuals looking to get started in the InfoSec field.
-- [Joe Grand's Official Server](https://discord.gg/wud8KnF2Gm) - Joe Grand's Official Discord Server
-- [Jhaddix Discord](discord.gg/jhaddix) - [Jason Haddix](https://twitter.com/Jhaddix) chat and share  all things infosec and offsec; We also game occasionally 😜
-- [KASE](https://discord.gg/vg6gdrKqMw) - Affordable hands-on OSINT training
-- [Kali Linux & Friends](https://discord.gg/xN7Vqjvsqe) - Kali Linux, Exploit Database, and VulnHub discussion
-- [KismetWireless](https://discord.gg/p8SPgGdaTT) - Kismet Wireless Community
-- [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - Highly knowledgable information security community focused on helping others learn from experts.
-- [Kitboga](https://discord.gg/kitboga) - Scambaiting
-- [Lockpickers United](https://discord.com/invite/lockpicking) - r/lockpicking Community
-- [The Lowdown Lab](https://discord.gg/thelowdownlab) - Microsoft Azure, O365, Cloud
-- [LyndLabs](https://discord.gg/szv3X7hbrG) - DNS-Driveby, Nugget, Wardriving with [Alex Lynd](https://twitter.com/alexlynd)
-- [Martian Defense Cyber Team](https://join.martiandefense.llc) - Beginner to Expert Cybersecurity Community
-- [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation Village
-- [MSPGeek](https://discord.gg/mspgeek) - MSP Community
-- [nahamsec](https://discord.gg/nahamsec-598608711186907146) - Bug Bounty Community
-- [netsecstudents](https://discord.gg/v8WcpurhVT) - r/netsecstudents discussion
-- [n00b_sec](https://discord.gg/Yr6GX7dB3A) - Hacking Community
-- [Offensive Security](https://discord.gg/offsec) - Offensive Security, Kali Linux, OSCP, etc
-- [OnlyFeet](https://discord.gg/XFjyaxRrVQ) - Literally anything. Doesn't have to be cyber security/server/feet related.
-- [Open Analysis Live](https://discord.gg/tqKcMTYu) - Reverse Engineering Community
-- [Optiv (Source Zero Con)](https://discord.gg/68gE2gVUEH) - Source Zero Con brings the cybersecurity community together to drive technical innovation with open minds
-- [OSINTion](https://discord.gg/A5yv3SwWBB) - C_3Pjoe OSINT Community
-- [PepperCon](discord.gg/URRBHAH) - The hottest thing at defcon. Come find us and feel the burn!
-- [picoCTF](https://discord.gg/WQGdYaB) - picoCTF Community
-- [PlayCyber Global League](https://discord.com/invite/playcybergloballeague) - esports and cybersecurity community
-- [Porchetta Industries](https://discord.gg/fCchJT6McG) - Offensive & Defensive Open-Source Security Software Tool developers
-- [Project Owl](https://discord.gg/projectowl) - OSINT Community
-- [pwn.college](https://discord.gg/pwncollege) - pwn.college is an education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
-- [public club](https://discord.gg/3b4qtuJUKe) - [Secret.Club](https://secret.club/): reverse-engineering, hacking and breaking your software in every way imaginable
-- [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing Village
-- [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
-- [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - RF Village
-- [Raices Cyber](https://discord.gg/6hgkaxNf4A) - Hispanic/Latino/Latina/LatinX Cyber Security Professionals
-- [RedSec by Bishop Fox](https://discord.gg/redsec) - Offensive Security/Red Teaming content, resources, research, news, and conversation.
-- [Recon Village](https://discord.gg/kRxDqGfb) - Recon Village
-- [Red Team Village](https://discord.gg/redteamvillage) - Red Team Village Discussion
-- [Red Team VX Community](https://discord.gg/red-team-vx-community-1012733841229746240) - Red Team Community
-- [RedTeamSec](https://discord.gg/sgFskv2TjQ) - r/redteamsec discussion
-- [REGames](https://discord.gg/regames-760531247704702996) - Video Game Reverse Engineering & Security
-- [Republic of Hackers](https://discord.gg/AVAXXWFzYF) - Global Community of Hackers and InfoSec Enthusiasts
-- [Retail Hacking Village](https://discord.gg/DxG4Uj7WZV) - Retail Hacking
-- [Reverse Engineering](https://discord.gg/rtfm) - Reverse Engineering Discussion
-- [RFID Hacking by Iceman](https://discord.gg/iceman) - Iceman RFID/Proxmark Discussion
-- [Red Society Club](discord.gg/theRSC) - Community of LGBTQ/Women/Under-Represented Red Team inidivudals
-- [SaintCon](https://discord.gg/saintcon) - SaintCon Community
-- [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Penetration Testing, Red Team, Exploit Dev, Purple Team and more.
-- [seccareers.dev](https://discord.gg/cybersecurity) - Internships, New Grad, Entry Roles, and Certifcations in Cybersecurity
-- [SecDSM](http://discord.gg/secdsm) - Des Moines, IA Security Community
-- [SecSchool](https://discord.gg/2bWxKHn8Yd) - Ethical hacking learning platform
-- [ShellSharks](https://discord.gg/gGNrabK9rY) - Infosec | Technology | Life
-- [SignalEverywhere](https://discord.gg/ZXH5KCXtRE) - Open community for Radio Communications and Software-Defined radio enthusiasts, hobbyist and professionals who wish to learn/teach/share their knowledge.
-- [Simply Cyber](https://discord.gg/simplycyber) - Inclusive, non-toxic infosec community; SimplyCyber YouTube Channel; Virtual Con
-- [SkyPenguin Labs](https://discord.gg/cPwv8kZHsx) - Hacking & Research
-- [Strange Parts](https://discord.gg/strangeparts) - [Strange Parts YouTube Channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - Adventure in Technology Fringe
-- [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering
-- [Summit City Infosec](https://discord.gg/e664A69G4a) - BSides Fort Wayne, IN Community
-- [TCM Security](https://discord.gg/tcm) - Veteran-owned Cybersecurity Company, Penetration Testing, Security Training, and Compliance.
-- [The Alh4z-R3d Team](https://discord.gg/PQdwBMb6dn) - Inclusive community promoting education and self-improvement through knowledge of the dark arts of hacking.
-- [The InfoSec Collective](https://discord.gg/kPhVS9DXjw) - Community-driven infosec non-profit aimed to make infosec a more inclusive and accessible field for everyone.
-- [The Hive](https://discord.gg/29VBQgQHMd) - Cybersecurity Learning Community
-- [The Pirates Plunder](https://discord.gg/thepirates) - Hacking, Wardriving, OSINT, etc
-- [The Taggart Institute](https://discord.gg/taggartinstitute) - Low-cost, high-quality technology training to everyone in a welcoming, supportive community.
-- [Threat Hunter Community](https://discord.gg/threathunter) - Threat Hunting Discussion
-- [Trace Labs](https://discord.gg/tracelabs) - TraceLabs CTF/OSINT Community
-- [TrustedSec](https://discord.gg/trustedsec) - TrustedSec Community
-- [TryHackMe](https://discord.gg/tryhackme) - TryHackMe Community
-- [Unofficial INE/eLearnSecurity/PTA](https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210) - INE/eLearnSecurity/PTA Discussion
-- [Voidstar Labs](https://discord.gg/voidstarlab) - 3D Printing, Engineering, Electronics, Hardware
-- [Wardriving Research Department](https://discord.gg/KPtfd4UK6g) - Wardriving
-- [WorkSmarter](https://discord.gg/WorkSmarter) - IT community focused on career, mentoring, and content creation.
-- [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
-- [ZeroDaysCTF](https://discord.gg/Uuhjn6Yyzb) - Organise and promote capture-the-flag (CTF) events.
+
+## H
+
+- [Hack The Box](https://discord.gg/hackthebox) - Hack The Box
+- [Hacker Family](https://discord.gg/vHs5q5u3yV) - Social hacking group focused on exploiting life
+- [Hackers Next Door](https://discord.gg/guwNcRtbAz) - Conference bringing together technologists, hackers, artists, and community organizers from across the country.
+- [Hackerspace Global Grid](https://discord.gg/HeY56ct) - Hackerspace Global Grid
+- [Hack The Box Community](https://discord.gg/hackthebox) - Hacker Community
+- [Hackasat](https://discord.gg/zTZ3Kk7) - Hacking Satellites
+- [HackSoc](https://discord.gg/K9FJZnaVwD) - HackSoc
+
+## I
+
+- [ILF](https://discord.gg/hp2vZAb9gD) - International Logic Federation
+- [Immersive Labs](https://discord.gg/YZxe7CEh) - Learn Cybersecurity in your browser.
+
+## L
+
+- [Ladbrokes Coral](https://discord.gg/TuqHRHdnRJ) - Hackathons, Mentorship
+- [Lost Rabbit Collective](https://discord.gg/WqX3N3v) - An ethical hacking community that aims to be the premier organization for curious and passionate people to come together and practice hacking
+
+## M
+
+- [MalwareTech](https://discord.gg/Z77qRfxA3w) - MalwareTech
+- [Metasploit](https://discord.gg/EzRSbxv6HR) - Metasploit Framework
+
+## N
+
+- [National Cybersecurity Alliance](https://discord.gg/QEDSFsePTE) - National Cybersecurity Alliance, StaySafeOnline, and the NICE Workforce Development Program
+- [NetHack](https://discord.gg/ypKkNwF) - Hacker Community
+- [N0b0dy](https://discord.gg/nobodysec) - Ethical Hacking Community
+- [NoHat](https://discord.gg/guDtGB73Qs) - Security Podcast, Red Teaming, Pentesting
+
+## O
+
+- [Offensive Security](https://discord.gg/offsec) - Offensive Security Training
+
+## P
+
+- [Pentester Academy](https://discord.gg/pentesteracademy) - Cybersecurity Education
+- [PlexTrack](https://discord.gg/4eReT3U) - PlexTrack
+- [PortSwigger Academy](https://discord.gg/portswigger) - Burp Suite discussion
+- [Purple Team Village](https://discord.gg/RzPz39RnMv) - Purple Team Village
+- [PwnDefend](https://discord.gg/pwndefend) - PwnDefend
+
+## R
+
+- [R3B00T](https://discord.gg/kVb5gE) - Cyber Security Conference
+- [Raindrop](https://discord.gg/raindrop) - Cybersecurity Community
+- [RastaMouse OpenSource](https://discord.gg/ep39u4TFDy) - Dev and Sec Stuff
+
+## S
+
+- [ScyllaDB](https://discord.gg/xXRy7nB) - ScyllaDB Community
+- [Security BSides](https://discord.gg/bsides) - Security BSides
+- [Sektor7](https://discord.gg/Un6UG4gT) - Cybersecurity Education and Training
+- [Shadow Village](https://discord.gg/shadowvillage) - Cybersecurity Community
+- [Sigma](https://discord.gg/4NUrZtS6) - Sigma Rules
+- [Sinister Linux](https://discord.gg/Nk2D6eU) - Sinister Linux
+- [Snoopy](https://discord.gg/qF5JdFgD) - Hacker Community
+- [Space Hacking Village](https://discord.gg/spacehackvillage) - Space Hacking
+- [SpecOps](https://discord.gg/specops) - Offensive Security
+- [SSTIC](https://discord.gg/sstic) - SSTIC
+- [StackHack](https://discord.gg/stackhack) - Hacker Community
+- [STEGONERDS](https://discord.gg/steegonerds) - OSINT/Steganography
+- [StrelSec](https://discord.gg/strels) - Security Engineering
+
+## T
+
+- [Team Redminer](https://discord.gg/teamredminer) - Team Redminer
+- [The Breach](https://discord.gg/thebreach) - Hacker Community
+- [The Cyber Mentor](https://discord.gg/tcm) - Cybersecurity Mentorship
+- [The Many Hats Club](https://discord.gg/7FWwJvT) - Infosec, Ethical Hacking, Digital Forensics
+- [The OSINT Curious Project](https://discord.gg/osint) - OSINT Curious
+- [The Pwn School Project](https://discord.gg/ftb97rT) - Cybersecurity Learning Community
+- [The Rabbit Hole](https://discord.gg/xM7KGRH) - Hacker Community
+- [ThugCrowd](https://discord.gg/5y4SZgS) - Hacker Podcast
+- [TryHackMe](https://discord.gg/tryhackme) - TryHackMe Learning Platform
+- [Twilio](https://discord.gg/ApKCySG) - Twilio Community
+
+## U
+
+- [uBugHunter](https://discord.gg/KAGDm7h) - Bug Bounty Community
+- [Urbana Group](https://discord.gg/urbanagroup) - Hacker Community
+
+## V
+
+- [Valve](https://discord.gg/valve) - Game Developers Community
+- [Verge3D](https://discord.gg/Verge3D) - 3D Graphics Community
+- [VonnyShah](https://discord.gg/vonnyshah) - Hacker Community
+
+## W
+
+- [We Are All Hackers](https://discord.gg/6CVy24p) - Hacker Community
+- [Whack Hack](https://discord.gg/YUzqq7J) - Hacker Community
+- [WWHF](https://discord.gg/wwhf) - Wild West Hackin' Fest
+
+## Z
+
+- [Zero Day Village](https://discord.gg/zerodayvillage) - Cybersecurity Community
+- [Zero Security](https://discord.gg/zerosecurity) - Cybersecurity Community
 
 If for any reason you would like to request a Discord server be removed please open a PR. This list is meant for non-malicious purposes exclusively.
