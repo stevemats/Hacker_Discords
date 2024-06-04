@@ -2,38 +2,7 @@
 
 ![header_IMAGE](https://github.com/INIT6Source/Hacker_Discords/assets/30528167/271cf35e-6ff4-43c0-81ca-272a111caeb9)
 
-<details open>
-<summary><strong>Table of Contents</strong></summary>
-
-- [Introduction](#introduction)
-  - [0-9](#0-9)
-  - [A](#a)
-  - [B](#b)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [F](#f)
-  - [G](#g)
-  - [H](#h)
-  - [I](#i)
-  - [L](#l)
-  - [M](#m)
-  - [N](#n)
-  - [O](#o)
-  - [P](#p)
-  - [R](#r)
-  - [S](#s)
-  - [T](#t)
-  - [U](#u)
-  - [V](#v)
-  - [W](#w)
-  - [Z](#z)
-
-</details>
-
----
-
-# Introduction
+# About
 
 Hacker Discords is a List of Hacker/Infosec/CyberSec and related Discord servers.
 
@@ -69,6 +38,37 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 
 ---
 
+<details open>
+<summary><strong>Table of Contents</strong></summary>
+
+- [About](#about)
+  - [0-9](#0-9)
+  - [A](#a)
+  - [B](#b)
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [G](#g)
+  - [H](#h)
+  - [I](#i)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+  - [Z](#z)
+
+</details>
+
+---
+
 ## 0-9
 
 | Name        | Discord Server                     | URL                      | Description                                      |
@@ -96,19 +96,19 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 
 ## B
 
-| Name                  | Discord Server                     | URL | Description                                            |
-| --------------------- | ---------------------------------- | --- | ------------------------------------------------------ | -------- | -------- | ---------- | ---------- |
-| BadgeMakers           | http://discord.badge.life          | N/A | Badge Life, Electronics, Buy / Sell / Trade / Learn    |
-| Bellingcat            | https://discord.gg/bellingcat      | N/A | Community for Bellingcat readers and OSINT enthusiasts |
-| BC Security           | discord.gg/P8PZPyf                 | N/A | Threat Emulation                                       | Training | Red Team | Pentesting | Compliance |
-| Biohackers Digital    | https://discord.com/invite/qtnE8T3 | N/A | Biohacking Community                                   |
-| Biohacking Village    | https://discord.gg/Q8ubDb5         | N/A | Biohacking                                             |
-| BSides Las Vegas      | https://discord.gg/JeeAjMCN        | N/A | BSides Las Vegas                                       |
-| Black Hills Infosec   | https://discord.gg/bhis            | N/A | Penetration Testing, Red Teaming, and Threat Hunting   |
-| Blue Team Labs Online | https://discord.gg/T8F2jqZwMG      | N/A | Blue Team Labs Community                               |
-| Blue Team Village     | https://discord.gg/blueteamvillage | N/A | Blue Team Village                                      |
-| Bounty Hunters        | https://discord.gg/bugbounty       | N/A | Bug Bounty Discussion                                  |
-| Bugcrowd Community    | https://discord.com/invite/TWr3Brs | N/A | Bugcrowd Community                                     |
+| Name                  | Discord Server                     | URL | Description                                                      |
+| --------------------- | ---------------------------------- | --- | ---------------------------------------------------------------- |
+| BadgeMakers           | http://discord.badge.life          | N/A | Badge Life, Electronics, Buy / Sell / Trade / Learn              |
+| Bellingcat            | https://discord.gg/bellingcat      | N/A | Community for Bellingcat readers and OSINT enthusiasts           |
+| BC Security           | discord.gg/P8PZPyf                 | N/A | Threat Emulation / Training / Red Team / Pentesting / Compliance |
+| Biohackers Digital    | https://discord.com/invite/qtnE8T3 | N/A | Biohacking Community                                             |
+| Biohacking Village    | https://discord.gg/Q8ubDb5         | N/A | Biohacking                                                       |
+| BSides Las Vegas      | https://discord.gg/JeeAjMCN        | N/A | BSides Las Vegas                                                 |
+| Black Hills Infosec   | https://discord.gg/bhis            | N/A | Penetration Testing, Red Teaming, and Threat Hunting             |
+| Blue Team Labs Online | https://discord.gg/T8F2jqZwMG      | N/A | Blue Team Labs Community                                         |
+| Blue Team Village     | https://discord.gg/blueteamvillage | N/A | Blue Team Village                                                |
+| Bounty Hunters        | https://discord.gg/bugbounty       | N/A | Bug Bounty Discussion                                            |
+| Bugcrowd Community    | https://discord.com/invite/TWr3Brs | N/A | Bugcrowd Community                                               |
 
 ## C
 
