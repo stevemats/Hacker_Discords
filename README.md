@@ -73,7 +73,7 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 
 | Name        | Discord Server                     | URL                      | Description                                      |
 | ----------- | ---------------------------------- | ------------------------ | ------------------------------------------------ |
-| 0x0539.net  | https://discord.gg/n8k3cPZxe9      | N/A                      | Exploit Research                                 |
+| 0x0539.net  | https://discord.gg/n8k3cPZxe9      | https://0x0539.net       | Wargame                                          |
 
 ## A
 
