@@ -142,7 +142,7 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 | DEF CON                   | https://discord.gg/defcon                                 | N/A | DEF CON                                                                                                 |
 | DEFCON Furs               | https://discord.io/defconfurs                             | N/A | DEFCON Furries Group                                                                                    |
 | DEF CON Groups VR         | https://discord.gg/bsX4QXf3rD                             | N/A | DEF CON Groups Virtual Reality                                                                          |
-| DEFCON 512                | discord.dc512.org                                         | N/A | DCG Austin, TX                                                                                          |
+| DEFCON 512                | https://discord.dc512.org                                 | N/A | DCG Austin, TX                                                                                          |
 | DevSecOps Community       | https://discord.gg/devsecops-community-918181751526948884 | N/A | DevSecOps Community                                                                                     |
 | DC2                       | https://discord.gg/GvjDcCew9Q                             | N/A | DC²                                                                                                     |
 | DC207                     | https://discord.gg/JjpKF6sFW6                             | N/A | DEFCON Group 207 - MaineSec                                                                             |
