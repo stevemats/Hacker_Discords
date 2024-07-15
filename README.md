@@ -275,7 +275,6 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 | The Many Hats Club        | https://discord.gg/7FWwJvT       | N/A | Infosec, Ethical Hacking, Digital Forensics |
 | The OSINT Curious Project | https://discord.gg/osint         | N/A | OSINT Curious                               |
 | The Pwn School Project    | https://discord.gg/ftb97rT       | N/A | Cybersecurity Learning Community            |
-| The Rabbit Hole           | https://discord.gg/therabbithole | N/A | Hacker Community                            |
 | Thotcon                   | https://discord.gg/42ySNzr2      | N/A | Chicago Hacking Conference                  |
 | ThreatPursuit VM          | https://discord.gg/EebznMPn      | N/A | Cybersecurity Learning VM                   |
 | TryHackMe                 | https://discord.gg/tryhackme     | N/A | TryHackMe                                   |
