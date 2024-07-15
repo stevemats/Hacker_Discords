@@ -81,7 +81,7 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 | ----------------------- | --------------------------------------- | ------------------------ | ----------------------------------------------------------------------------- |
 | Adversary Village       | https://discord.gg/rk44QhQR             | N/A                      | Adversary Village                                                             |
 | Aerospace Village       | https://discord.com/invite/gV4EWuk      | N/A                      | Aerospace Village                                                             |
-| Ai Village              | discord.gg/xMK7fuu                      | N/A                      | Artificial Intelligence Village                                               |
+| Ai Village              | https://discord.gg/xMK7fuu              | N/A                      | Artificial Intelligence Village                                               |
 | Alomancy's Server       | https://discord.gg/bPw3arrhbJ           | N/A                      | Hacker Community                                                              |
 | Amass                   | https://discord.gg/BjCH28z7f6           | N/A                      | Network Mapping and External Asset Discovery using OSINT and active recon.    |
 | AND!XOR                 | https://discord.gg/Frf5VpXN9F           | https://www.andnxor.com/ | BadgeLife & 5n4ck3y                                                           |
@@ -98,8 +98,8 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 | --------------------- | ---------------------------------- | --- | ---------------------------------------------------------------- |
 | BadgeMakers           | http://discord.badge.life          | N/A | Badge Life, Electronics, Buy / Sell / Trade / Learn              |
 | Bellingcat            | https://discord.gg/bellingcat      | N/A | Community for Bellingcat readers and OSINT enthusiasts           |
-| BC Security           | https://discord.gg/P8PZPyf                 | N/A | Threat Emulation / Training / Red Team / Pentesting / Compliance |
-| Biohacker Lounge                | https://discord.gg/biohackers           | https://blog.biohackinginternational.com | Main Discord in the International Biohacking Community |
+| BC Security           | https://discord.gg/P8PZPyf         | N/A | Threat Emulation / Training / Red Team / Pentesting / Compliance |
+| Biohacker Lounge      | https://discord.gg/biohackers      | https://blog.biohackinginternational.com | Main Discord in the International Biohacking Community |
 | Biohackers Digital    | https://discord.com/invite/qtnE8T3 | N/A | Biohacking Community                                             |
 | Biohacking Village    | https://discord.gg/Q8ubDb5         | N/A | Biohacking                                                       |
 | BSides Las Vegas      | https://discord.gg/JeeAjMCN        | N/A | BSides Las Vegas                                                 |
