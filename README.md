@@ -79,7 +79,6 @@ To contribute to the list, please open a pull request(PR) to submit a server - [
 
 | Name                    | Discord Server                          | URL                      | Description                                                                   |
 | ----------------------- | --------------------------------------- | ------------------------ | ----------------------------------------------------------------------------- |
-| adbs.fi                 | https://discord.gg/jfVRF2XRwF           | N/A                      | Community-driven flight tracker                                               |
 | Adversary Village       | https://discord.gg/rk44QhQR             | N/A                      | Adversary Village                                                             |
 | Aerospace Village       | https://discord.com/invite/gV4EWuk      | N/A                      | Aerospace Village                                                             |
 | Ai Village              | discord.gg/xMK7fuu                      | N/A                      | Artificial Intelligence Village                                               |
